@@ -1,2 +1,2 @@
 # FlickrBrowser
- Just a simple app that lets you search Flickr for images by tag
+ Just a simple Android app that lets you search Flickr for images by tag
